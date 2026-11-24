@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5b42d6"/><stop offset="1" stop-color="#ef5ab5"/></linearGradient><radialGradient id="r"><stop stop-color="#fff" stop-opacity=".4"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1100" rx="55" fill="#17152e"/><circle cx="760" cy="180" r="280" fill="url(#r)"/><circle cx="130" cy="900" r="320" fill="url(#r)"/>
+<path d="M0 760 Q250 580 480 800 T900 730 V1100 H0Z" fill="url(#g)" opacity=".9"/>
+<text x="75" y="130" fill="#cfc5ff" font-family="Arial" font-size="28" letter-spacing="7">QUAD AI SCHOOL OF TECHNOLOGY</text>
+<text x="75" y="390" fill="white" font-family="Arial" font-size="150" font-weight="bold">CLESTA</text>
+<text x="80" y="510" fill="#ffb8e4" font-family="Arial" font-size="100" font-weight="bold">2026</text>
+<text x="82" y="600" fill="white" font-family="Arial" font-size="34">TECH • CREATIVITY • CULTURE</text>
+<text x="82" y="890" fill="white" font-family="Arial" font-size="42" font-weight="bold">18 — 19 DECEMBER</text>
+<text x="82" y="950" fill="#f3eaff" font-family="Arial" font-size="27">PATNA, BIHAR</text>
+<circle cx="720" cy="670" r="90" fill="none" stroke="#fff" stroke-width="4" opacity=".6"/><path d="M670 670h100M720 620v100" stroke="#fff" stroke-width="5" opacity=".6"/>
+</svg>
